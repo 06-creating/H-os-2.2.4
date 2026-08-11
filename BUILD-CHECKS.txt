@@ -1,0 +1,13 @@
+Pre-package checks performed:
+- HomeActivity.java present
+- Android HOME and LAUNCHER intent filters present
+- minSdk = 8 (Android 2.2)
+- targetSdk = 8
+- No AndroidX dependencies
+- No third-party dependencies
+- No root/system permissions
+- No boot receiver
+- No background service
+- No device-admin component
+- Wi-Fi/Bluetooth/audio permissions explicitly declared
+- Source uses Android APIs available in the Android 2.x era
